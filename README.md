@@ -1,2 +1,2 @@
 # MisionDesarrollo
-Versión web para la solicitud de citas medicina general
+Desarrollo de una aplicación web para el manejo de citas en un Consultorio medico.
